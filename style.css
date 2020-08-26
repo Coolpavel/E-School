@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+.container{
+    margin-top: 10px;
+    width:100%;
+}
+.img-width{
+   width:20%; 
+}
+.nav-bg{
+    margin-top: 7%;
+}
+.new-button{
+    background-color:#21B573;;
+    color: #fff;
+    padding: 7px 20px;
+    margin-top:7px;
+    border: none;
+    border-radius: 20px;
+}
+.font{
+    font-family: 'Anton', sans-serif;
+}
+.font span{
+    color: #21B573;
+}
+.color-p{
+    color: #FC5D29;
+}
+.img-size{
+    width: 28%;
+    margin-top: 30%;
+    margin-left: 10px;padding-bottom: 15px;
+}
+.text-bg{
+    text-align: center;
+    box-shadow: 5px 5px 50px lightgray;
+    font-family: cursive;
+    margin-top: 7%;
+}
+.card{
+    padding: 20px 20px;
+    margin-top: 5%;
+     box-shadow: 5px 5px 50px lightgray;
+     margin-bottom:20%; 
+}
+.img-footer{
+    width:7%;
+}
+.text-footer{
+    display:inline;
+    padding-right: 15px;
+}
+.card-footer{
+
+}
+.img-chng{
+    width:30%;
+    margin-left: 60%;
+}
+.text-bold{
+    margin-top:10%;
+    margin-bottom:5%;
+    text-align: center;
+}
+.text-dec{
+    margin-right: 10%;
+}
+.cool-bg{
+    margin-bottom:10%;
+}
+.last-part{
+    background-color: #282531;
+    color: #fff;
+    width:110%;
+    height:auto;
+   padding-top: 5%;
+}
+.text-bod{
+    text-align: center;
+    padding-left: 35%;
+    padding-top: 20%;
+}
